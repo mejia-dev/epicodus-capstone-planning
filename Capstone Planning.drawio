@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T17:53:16.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="b4dWXJV58QhINhvYZc88" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T18:23:53.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6gSCr_tvmHNwm2MfwZ8G" version="22.1.5" type="github">
   <diagram name="Page-1" id="K1Xrfr7fSabbaLhxthaO">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,14 +64,23 @@
         <mxCell id="YbdAK8K5_lgZhOfhUo7q-16" value="Learning more about local culture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YbdAK8K5_lgZhOfhUo7q-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YbdAK8K5_lgZhOfhUo7q-17" target="YbdAK8K5_lgZhOfhUo7q-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YbdAK8K5_lgZhOfhUo7q-17" value="Exploring new places" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YbdAK8K5_lgZhOfhUo7q-19" value="Songwriting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YbdAK8K5_lgZhOfhUo7q-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YbdAK8K5_lgZhOfhUo7q-22" target="YbdAK8K5_lgZhOfhUo7q-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YbdAK8K5_lgZhOfhUo7q-22" value="Listening to music" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YbdAK8K5_lgZhOfhUo7q-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YbdAK8K5_lgZhOfhUo7q-24" target="YbdAK8K5_lgZhOfhUo7q-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YbdAK8K5_lgZhOfhUo7q-24" value="Finding new music" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="640" width="120" height="60" as="geometry" />
@@ -87,6 +96,9 @@
         </mxCell>
         <mxCell id="YbdAK8K5_lgZhOfhUo7q-32" value="Puzzle games" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YbdAK8K5_lgZhOfhUo7q-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YbdAK8K5_lgZhOfhUo7q-34" target="YbdAK8K5_lgZhOfhUo7q-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YbdAK8K5_lgZhOfhUo7q-34" value="Side scrollers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="240" width="120" height="60" as="geometry" />
@@ -104,6 +116,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="565" y="780" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YbdAK8K5_lgZhOfhUo7q-47" value="Spotify Side Scroller:&lt;br&gt;Imports your Spotify library or recommendations to create levels using sound visualizations (web audio API)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="190" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YbdAK8K5_lgZhOfhUo7q-50" value="Local Music Finder:&lt;br&gt;Enter a location that you&#39;re traveling to and it will gather music created in or popular in that area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="730" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YbdAK8K5_lgZhOfhUo7q-53" value="Travel Logger with Travel Deals:&lt;br&gt;Create a list of places you&#39;ve visited, and look for deals on travelling to places you haven&#39;t visited using the Amadeus API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="920" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
