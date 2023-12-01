@@ -1,6 +1,6 @@
 # Epicodus Capstone Idea Outline
 #### By Aaron Mejia
-*Idea Board and original Word document version of this Outline can be found in the files listed above.*
+*[Idea Board image](https://github.com/mejia-dev/epicodus-capstone-planning/blob/main/Capstone%20Idea%20Board%20-%20Final.png) and [original Word document](https://github.com/mejia-dev/epicodus-capstone-planning/blob/main/Capstone%20Idea%20Outline.docx) version of this Outline can be found in the files listed above.*
 
 ## Capstone Idea: Spotify Side-Scroller
 The Spotify Side-Scroller (name pending revision) is a game that imports your Spotify library or Spotify recommendations to automatically create levels using sound visualizations. The intended style of the levels is to mimic some of the visualizations in versions of Windows Media Player.
@@ -17,5 +17,5 @@ The Spotify Side-Scroller (name pending revision) is a game that imports your Sp
   - Learning about OAuth APIs. I have some experience with them from my IT background, but would need to do some research on them in relation to coding.
   - Animating the visualizations may be a challenge. While I haven’t looked into the Web Audio API much, it doesn’t seem like this should be a hard task, but I may be wrong.
 - If you were asked to begin working on this program now what would you start with?
-  - If asked to start on this project now, my first step would be research the ease/functionality of using JS vs C# for building a side-scroller based on language capabilities and knowledge acquired up to this point. 
+  - If asked to start on this project now, my first step would be to research the ease/functionality of using JS vs C# for building a side-scroller based on language capabilities and knowledge acquired up to this point. 
 After doing this, I would develop a project plan. 
